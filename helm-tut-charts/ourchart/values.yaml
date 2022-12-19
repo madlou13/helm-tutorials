@@ -1,1 +1,1 @@
-containerImage: nginx:1.17
+containerImage: nginx:1.18
